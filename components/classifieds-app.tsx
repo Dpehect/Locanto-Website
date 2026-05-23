@@ -223,7 +223,7 @@ export function ClassifiedsApp({
         </div>
 
         <div className="brandbar">
-          <a className="brand" href="#" aria-label="Locanto services clone home">
+          <a className="brand" href="#" aria-label="Locanto services home">
             <span className="brand-mark">L</span>
             <span className="brand-copy">
               <strong>locanto</strong>
@@ -643,10 +643,10 @@ export function ClassifiedsApp({
       <footer className="footer" id="help">
         <div className="footer-inner">
           <div>
-            <h2>Locanto services clone</h2>
+            <h2>Locanto Services</h2>
             <p>
               A Next.js classifieds interface with searchable listings, category
-              filters, saved ads, and a Node.js API layer for demo data.
+              filters, saved ads, and a Node.js API layer for services data.
             </p>
           </div>
           <div>
